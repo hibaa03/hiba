@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hiba/static/css/main.24cb870b.css",
+    "main.js": "/hiba/static/js/main.750b103b.js",
+    "index.html": "/hiba/index.html",
+    "main.24cb870b.css.map": "/hiba/static/css/main.24cb870b.css.map",
+    "main.750b103b.js.map": "/hiba/static/js/main.750b103b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24cb870b.css",
+    "static/js/main.750b103b.js"
+  ]
+}
